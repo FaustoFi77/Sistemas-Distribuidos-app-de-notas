@@ -1,0 +1,23 @@
+{
+  "users": [],
+  "notes": [
+    {
+      "id": "af65c3ff-1c86-4627-bb6d-a85fc36d001b",
+      "title": "Estudiar Sistemas Distribuidos",
+      "text": "Repasar NestJS, repositorios JSON y Swagger",
+      "color": "#ffff88",
+      "minutes": 5,
+      "createdAt": 1792974800039,
+      "notified": false
+    },
+    {
+      "id": "cb92a205-c4a6-4029-813a-5da573c147e8",
+      "title": "Hola a todos",
+      "text": "probando",
+      "color": "#ffff88",
+      "minutes": 5,
+      "createdAt": 1792974228740,
+      "notified": false
+    }
+  ]
+}
